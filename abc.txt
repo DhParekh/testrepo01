@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1CBA-2328
+
+ Directory of C:\Dhaval\Git Demo\dhaval
+
+07/20/2017  03:55 PM    <DIR>          .
+07/20/2017  03:55 PM    <DIR>          ..
+07/20/2017  03:55 PM                 0 abc.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  10,101,780,480 bytes free
