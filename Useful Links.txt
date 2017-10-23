@@ -1,0 +1,19 @@
+https://aws.amazon.com/certification/certified-solutions-architect-associate/
+
+http://jayendrapatil.com/aws-elastic-beanstalk/
+
+https://gist.github.com/jivoi/1c79ba85037c57b7d80343a0d4b4143e ----
+
+https://markosrendell.wordpress.com/2013/12/12/aws-certified-solutions-architect-sample-questions-answered-and-discussed/
+
+https://blog.cloudthat.com/10-trial-questions-for-aws-sysops-administrator-associate-certification/
+
+https://blog.cloudthat.com/sample-questions-for-amazon-web-services-certified-developer-associate-certification/
+
+https://acloud.guru/forums/aws-certified-solutions-architect-associate/discussion/-JymxnlNfs5fzy796kEd/passed-the-exam-again-my-thoughts
+
+https://acloud.guru/bundle/aws-associate-certification ----
+
+https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+
+https://cloudacademy.com/blog/aws-certification-exams-what-to-expect/
